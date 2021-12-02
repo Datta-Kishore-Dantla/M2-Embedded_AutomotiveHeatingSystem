@@ -46,4 +46,3 @@ Operated by detecting the Temperature
 |LLR2|Select from Menu|
 |LLR3|Checks the temperature|
 |LLR4|Display the value of temperature of the seat|
-
